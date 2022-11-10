@@ -1,0 +1,42 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Josefin Sans', sans-serif;
+  	background-color: #565448;
+}
+
+img {
+	width: 22rem;
+}
+.buffer {
+	height: 3rem;
+}
+h1 {
+	font-size: 3rem;
+	color: #eadbdc;
+}
+.btn {
+	font-weight: 300;
+	border-radius: 80px;
+	border-width: 3px;
+	color: #e9e8dc;
+}
+.btn-outline-primary {
+	border-color: #dbeae9;
+}	
+.btn-outline-primary:hover {
+	background-color: #47473d;
+	border-color: #cecbab;
+	color: #dfdecc;
+}
+.btn-xl {
+	padding: 1rem 2rem;
+}
+/* hr {
+    margin: 20px auto;
+    color: #F05F44;
+    border: 3px solid #F05F44;
+    max-width: 65px;
+    opacity: 1;  */
+}
